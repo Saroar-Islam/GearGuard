@@ -1,7 +1,7 @@
 https://gearguardz.netlify.app/
 
 
-
+ <img src="https://github.com/Saroar-Islam/GearGuard/blob/main/gearguardProjectView.jpeg"/>
 
 # React + Vite
 
